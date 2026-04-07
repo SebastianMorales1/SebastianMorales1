@@ -1,20 +1,45 @@
 # Hello, I am Sebastián Morales 👋
-**Junior Data Analyst**
+**Business Intelligence Analyst | Operations & Logistics Focus**
 
 ## 🎯 Professional profile
-Entry-level data analyst focused on transforming complex information into strategic decision-making tools.
+* Data analyst with hands-on experience in logistics operations and risk analysis, focused on turning operational data into actionable insights.  
+* I specialize in monitoring performance, identifying inefficiencies, and supporting decision-making in fast-paced environments.
 
-## 🛠️ Tech skills
-* **Data Analysis:** Advanced Excel (Power Pivot, Filtering, Dynamic tables,Dinamic graphics, ETL process, Power Query.).
-* **Data Visualization:** Power BI (Dynamic Dashboards, KPI cards, measures, Data Storytelling).
-* **Data BASE:** SQL (In process).
-* **Programming:** Python for data analysis (Fundamentals).
+## 🧠 Core Strengths  
+- **Operational Data Analysis:** Experience tracking 200+ daily deliveries, identifying delays and execution issues.  
+- **Process Optimization Mindset:** Focused on improving workflows, reducing errors, and increasing visibility.  
+- **Data Accuracy & Reporting:** Strong attention to detail in data validation, tracking, and KPI monitoring.  
+- **Problem Solving Under Pressure:** Ability to analyze incidents and provide quick, structured solutions.  
+
+
+## 🛠️ Technical Skills  
+- **Data Analysis:** Excel (Power Query, Pivot Tables, Data Cleaning, ETL basics)  
+- **Data Visualization:** Power BI (Dashboards, KPI Tracking, Data Modeling basics)  
+- **SQL:** Basic queries (SELECT, JOIN, GROUP BY) – currently strengthening  
+- **Python:** Fundamentals for data analysis (learning in progress)  
 
 ## 📂  Featured Projects
-* **[Sales & Commissions Analysis](https://github.com/SebastianMorales1/Sales-Operations-Analysis-Excel):**  Automation of logistical calculations and data cleaning in Excel.
-* **[Data Visualization Power BI](https://github.com/SebastianMorales1/Data-Visualization-PowerBI-):**  Dynamic dashboards and KPI cards for Data visualization in PowerBI.
 
+### 🔹 Sales & Operations Analysis (Excel)  
+[View Project](https://github.com/SebastianMorales1/Sales-Operations-Analysis-Excel)  
+- Cleaned and structured raw data using Power Query  
+- Automated calculations and reporting processes  
+- Built dynamic tables to support operational decision-making  
+
+### 🔹 Data Visualization Dashboard (Power BI)  
+[View Project](https://github.com/SebastianMorales1/Data-Visualization-PowerBI-)  
+- Designed interactive dashboards with KPI tracking  
+- Transformed data into visual insights for performance monitoring  
+- Applied basic data modeling and storytelling principles  
 
 ---
-📫 **¿Cómo contactarme?**
+
+## 📈 Current Focus  
+- Strengthening SQL for data extraction and analysis  
+- Building end-to-end BI projects with real business context  
+- Transitioning into a **Business Intelligence / Data Analyst role (entry-level)**  
+
+---
+
+📫 Contact
 * **LinkedIn:** [https://co.linkedin.com/in/sebastianmoralesuexternado]
