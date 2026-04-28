@@ -32,6 +32,12 @@
 - Transformed data into visual insights for performance monitoring  
 - Applied basic data modeling and storytelling principles  
 
+### 🔹 Data Visualization Dashboard (Looker Studio)  
+[View Project](https://github.com/SebastianMorales1/Looker-Studio-Data-Analysis)  
+- Built dynamic tables to support operational decision-making  
+- Transformed data into visual insights for performance monitoring  
+- Applied basic data modeling and storytelling principles  
+
 ---
 
 ## 📈 Current Focus  
